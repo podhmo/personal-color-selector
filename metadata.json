@@ -1,0 +1,6 @@
+{
+  "name": "Color Palette Tool",
+  "description": "Color Palette Design & Accessibility Verification Tool",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
